@@ -1,0 +1,122 @@
+    1  touch index.php
+    2  ls
+    3  dir
+    4  code .
+    5  ls
+    6  https://github.com/nathanlecat/php-Site-Web.git
+    7  php -v
+    8  php -version
+    9  composer -v
+   10  php -v
+   11  php -v
+   12  composer require laravel/ui
+   13  composer -v
+   14  php -v
+   15  laravel -v
+   16  php artisan ui vue --auth
+   17  php artisan/ui vue --auth
+   18  laravel
+   19  laravel list
+   20  laravel -h
+   21  composer require laravel/ui
+   22  composer update
+   23  composer require laravel/ui
+   24  composer require laravel/ui:"^3.0"
+   25  composer require laravel/ui:"^3.2"
+   26  composer require laravel/ui:"^3.2.1"
+   27  laravel update
+   28  composer
+   29  ls
+   30  cd..
+   31  cdls
+   32  cd/
+   33  dir
+   34  dir
+   35  php artisan serve
+   36  cd xampp
+   37  ls
+   38  cd..
+   39  cd/
+   40  ?
+   41  help
+   42  php -v
+   43  /c/xampp/htdocs/projetLaravel
+   44  cd/xampp/htdocs/projetLaravel
+   45  cd /c/xampp/htdocs/projetLaravel
+   46  ls
+   47  dir
+   48  cd..
+   49  laravel -v
+   50  laravel new projetLaravel
+   51  dir
+   52  cd projetLaravel
+   53  code .
+   54  php artisan --version
+   55  composer require laravel/ui
+   56  npm install
+   57  npm run dev
+   58  rm node_modules
+   59  rm package-lock.json yarn.lock
+   60  npm cache clear--force
+   61  npm install
+   62  npm run dev
+   63  rm node_modules
+   64  rd node_modules
+   65  npm run dev
+   66  composer require laravel/ui
+   67  npm install
+   68  rm node_modules
+   69  composer require laravel/ui
+   70  php artisan ui bootstrap --auth
+   71  npm install
+   72  npm run dev
+   73  npm run dev
+   74  php artisan make:middleware IsAdmin
+   75  php artisan make:seeder CreateUsersSeeder
+   76  php artisan db:seed --class=CreateUsersSeeder
+   77  php artisan migrate
+   78  php artisan migrate
+   79  php artisan migrate
+   80  php artisan db:seed --class=CreateUsersSeeder
+   81  php artisan make:seeder CreateUsersSeeder
+   82  php artisan db:seed --class=CreateUsersSeeder
+   83  php artisan migrate
+   84  cs xampp
+   85  dir
+   86  cd..
+   87  git
+   88  git
+   89  git status
+   90  exit
+   91  ls
+   92  cd d:
+   93  cd c:
+   94  ls
+   95  cd users/rfath
+   96  ls
+   97  cd Documents/
+   98  mkdir test_git
+   99  cd test_git
+  100  echo "# test_git" >> README.md
+  101  ls
+  102  git init
+  103  ls-al
+  104  ls -al
+  105  git add README.md
+  106  git status
+  107  git commit -m "mon premier commit"
+  108  git config --global user.email "r.fathi@sfr.fr"
+  109  git config --global user.name "rachidfat"
+  110  git commit -m "mon premier commit"
+  111  git remote add origin https://github.com/rachidfat/test_git.git
+  112  git push -u origin main
+  113  git branch -M main
+  114  git push -u origin main
+  115  git status
+  116  git add *
+  117  git status
+  118  git commit -m
+  119  git commit -m "ajout class controller.php et index.php"
+  120  git push -u origin
+  121  history
+  122  history >> command.txt
